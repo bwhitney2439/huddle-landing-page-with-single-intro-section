@@ -29,8 +29,6 @@ body {
   height: 100vh;
   background-image: url(/images/bg-desktop.svg);
   background-color: #674baf;
-  /* Full height */
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
